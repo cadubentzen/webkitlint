@@ -1,0 +1,8 @@
+# Python virtualenv
+venv/
+
+# Python bytecode files
+*.pyc
+
+# VSCode dir
+.vscode/
